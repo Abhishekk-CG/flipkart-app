@@ -1,2 +1,2 @@
 # flipkart-app
-This repo is created for flipkart app assignment
+This repo is created for flipkart app assignment.
